@@ -1,0 +1,5 @@
+# Core runtime. Small on purpose: no deep-learning framework is needed to run the app.
+Flask>=3.0,<4.0
+numpy>=1.26
+opencv-python-headless>=4.8
+Pillow>=10.0
